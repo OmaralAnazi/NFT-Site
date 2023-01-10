@@ -164,6 +164,7 @@ li:not(:last-child) {
 
     header .container {
         display: flex;
+        gap: 2em;
         text-align: left;
         align-items: center;
     }
