@@ -165,6 +165,7 @@ li:not(:last-child) {
     header .container {
         display: flex;
         text-align: left;
+        align-items: center;
     }
 
     nav {
