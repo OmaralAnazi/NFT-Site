@@ -18,5 +18,5 @@ As part of a guided project in the Scrimba Front-End Developer Program, this sit
 Clone the repository and open the `index.html` file in a web browser to explore the site's content and features.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://rococo-arithmetic-72ef0d.netlify.app/)
 
